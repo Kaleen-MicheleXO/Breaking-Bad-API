@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+/* ******************************************
+ LAYOUT
+***************************************** */
+body {
+  background-color: rgb(2 36 5);
+  color: white;
+}
+header {
+  text-align: center;
+  margin-top: 4%;
+}
+
+.container2 {
+  margin-top: 7%;
+  float: left;
+  width: 49%;
+}
+.container {
+  float: left;
+  width: 40%;
+  margin-top: 10%;
+  margin-left: 10%;
+  /* border: 1px solid green; */
+}
+
+.container-data {
+  margin-top: 5%;
+  position: absolute;
+  left: 40px;
+}
+img {
+  width: auto;
+  height: 500px;
+}
